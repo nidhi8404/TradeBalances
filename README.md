@@ -39,9 +39,14 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-ScreenShots
-![image](https://github.com/nidhi8404/TradeBalances/assets/102024307/02aeb01b-67a7-4d68-a45b-e4295107072a)
+# ScreenShots
+![image](https://github.com/nidhi8404/TradeBalances/assets/102024307/167588bf-1e56-407d-b45c-073b385b1e94)
 
+Uploading CSV
+![image](https://github.com/nidhi8404/TradeBalances/assets/102024307/a741e1dc-a0dd-417f-93fe-f2ddd2480c92)
+
+Checking Asset Balance
+![image](https://github.com/nidhi8404/TradeBalances/assets/102024307/26f43110-20fc-4d35-b6ec-87026f5b008a)
 
 ## Learn More
 
