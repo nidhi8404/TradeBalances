@@ -42,10 +42,10 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 # ScreenShots
 ![image](https://github.com/nidhi8404/TradeBalances/assets/102024307/167588bf-1e56-407d-b45c-073b385b1e94)
 
-Uploading CSV
+### Uploading CSV
 ![image](https://github.com/nidhi8404/TradeBalances/assets/102024307/a741e1dc-a0dd-417f-93fe-f2ddd2480c92)
 
-Checking Asset Balance
+### Checking Asset Balance
 ![image](https://github.com/nidhi8404/TradeBalances/assets/102024307/26f43110-20fc-4d35-b6ec-87026f5b008a)
 
 ## Learn More
